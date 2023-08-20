@@ -8,7 +8,7 @@ public class DigitsSumCalculator {
         int units = number % 10;
 
         int sum = thousands + hundreds + tens + units;
-        System.out.println("Sum of digits: " + sum);
+        System.out.println(  sum);
     }
 
     public static void main(String[] args) {
