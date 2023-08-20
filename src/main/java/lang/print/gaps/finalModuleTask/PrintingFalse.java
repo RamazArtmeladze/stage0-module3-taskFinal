@@ -5,5 +5,8 @@ public class PrintingFalse {
         int first = 9;
         int second = -17;
         //write code here
+
+        boolean result = (first < second);
+        System.out.println(result);
     }
 }
